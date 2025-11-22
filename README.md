@@ -1,7 +1,5 @@
 # 📊 StayWithUs-Customer-Churn-Insights
-
-***This is the graduation project for the Data Engineer Track at DEPI (Digital Egypt Pioneers Initiative)***
----
+**This is the graduation project for the Data Engineer Track at DEPI (Digital Egypt Pioneers Initiative)**
 
 ### 🎯 Project Overview
 
