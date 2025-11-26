@@ -16,6 +16,29 @@ By combining exploratory data analysis, predictive modeling, and strategic insig
 - Recommend targeted retention strategies based on model insights.
 
 ---
+### 📊 Milestone 1: Data Collection, Exploration & Preprocessing
+- Collected and loaded the Telecome Customer Churn dataset (7,050 rows, 33 columns).
+- Performed EDA to uncover churn patterns (e.g., by contract type, tenure, payment method).
+- Handled missing values, removed duplicates, and validated data quality.
+- Encoded categorical features and scaled numerical ones to produce a modeling-ready dataset.
+
+---
+
+### 🤖 Milestone 2: Predictive Model Development
+- Trained and compared classifiers (Logistic Regression, Random Forest, XGBoost).
+- Used stratified train/test split to address class imbalance.
+- Evaluated models using Accuracy, Precision, Recall, F1, and ROC-AUC—prioritizing Recall.
+- Extracted feature importance to explain key churn drivers (contract, tenure).
+
+---
+
+### 🚀 Milestone 3: Deployment & Retention Strategy
+- Built a Flask app with a user-friendly interface for real-time churn predictions.
+- Translated model insights into actionable retention tactics (e.g., discounts, support outreach).
+- Delivered a comprehensive retention strategy report aligned with stakeholder needs.
+- Prepared final demo, presentation, and documentation for end-to-end project handover.
+
+---
 ## 🛠️ Technologies & Tools Used
 
 | Category       | Technology |
